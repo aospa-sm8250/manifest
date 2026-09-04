@@ -19,7 +19,7 @@
 
   <!-- Bootable -->
   <remove-project name="platform/bootable/recovery" />
-  <project path="bootable/recovery" name="AOSPA/android_bootable_recovery" remote="aospa" />
+  <project path="bootable/recovery" name="aospa-sm8250/android_bootable_recovery" remote="aospa" />
 
   <!-- Core -->
   <remove-project name="platform/bionic" />
