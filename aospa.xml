@@ -69,7 +69,7 @@
 
   <!-- Kernel -->
   <remove-project name="kernel/configs" />
-  <project path="kernel/configs" name="AOSPA/android_kernel_configs" remote="aospa" />
+  <project path="kernel/configs" name="aospa-sm8250/android_kernel_configs" remote="aospa" />
 
   <!-- Manifest -->
   <project path="manifest" name="aospa-sm8250/manifest" remote="aospa" />
