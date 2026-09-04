@@ -46,7 +46,7 @@
   <remove-project name="platform/external/jemalloc_new" />
   <project path="external/jemalloc_new" name="AOSPA/android_external_jemalloc-new" remote="aospa" />
   <remove-project name="platform/external/tinycompress" />
-  <project path="external/tinycompress" name="AOSPA/android_external_tinycompress" remote="aospa" />
+  <project path="external/tinycompress" name="aospa-sm8250/android_external_tinycompress" remote="aospa" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
